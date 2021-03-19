@@ -1,14 +1,24 @@
 body {
+    background-image: url(Mar\ perfeito.webp);
+    background-size: cover;
+    
 }
 
 main#container {
+    font-size: 20px;
+    
 }
 
 h1.titulo {
+    font-size: 40px;
+    text-shadow: 4px 4px 4px darkblue;
+    
 }
 
 p.frase {
+    font-family:  monospace;
 }
 
 p.autor {
+    font-weight: bolder;
 }
